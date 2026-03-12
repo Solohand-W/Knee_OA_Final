@@ -1,0 +1,3 @@
+https://www.kaggle.com/datasets/jeftaadriel/osteoarthritis-initiative-oai-dataset?resource=download
+
+extract the file and then on our project file make a folder data_raw and then paste the train,test and val folders there
